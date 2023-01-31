@@ -5,7 +5,7 @@
     .clr-#{$color}-#{$shade} {
       color: $value;
     }
-    .bg-#{$color-#{$shade}} {
+    .bg-#{$color}-#{$shade} {
       background-color: $value;
     }
   }
